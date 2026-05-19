@@ -12,64 +12,64 @@
   },
   {
     imgSrc:
-      "https://cdn.outsideonline.com/wp-content/uploads/2023/03/Funny_Dog_H.jpg?crop=16:9&width=960&enable=upscale&quality=100",
-    title: "Alura Geek",
+      "https://raw.githubusercontent.com/Abdelhamed-mohamed/File-pictures/refs/heads/main/FOX/IMG_20260519_213511_869.webp",
+    title: "WEB FOR DEVELOPERS",
     skills: ["JavaScript", "CSS"],
-    excerpt: "Final project for the One Oracle Next Education Program. Educational programming video website demonstrating CRUD requests.",
-    demoURL: "https://alura-geek-ruddy.vercel.app/",
+    excerpt: "A suitable website for programmers to introduce themselves and showcase their projects.",
+    demoURL: "https://medofox.vercel.app/",
     repoURL: "https://devabdelhamed.vercel.app/",
-    description: `<p>Alura Geek is a web application built with <strong>JavaScript</strong> and <strong>CSS</strong>. It allows users to browse and manage a collection of geek products, implementing CRUD operations and responsive layouts. Developed as part of the One Oracle Next Education Program.</p>`
+    description: `<p>مـوقـع مـنـاسب لـلـمـبـرمـجـين لـعـرض الـمـشـاريع  وهـو مـصـنـوع بـ <strong>JavaScript</strong> و <strong>CSS</strong>. وايـضـا شـكـله مـمـيز والـوانـه, عـصـريـه بـ واجـهه امـامـيه فـخـمـه.</p>`
   },
   {
     imgSrc:
-      "https://cdn.outsideonline.com/wp-content/uploads/2023/03/Funny_Dog_H.jpg?crop=16:9&width=960&enable=upscale&quality=100",
-    title: "React ORG",
+      "https://raw.githubusercontent.com/Abdelhamed-mohamed/File-pictures/refs/heads/main/FOX/aluraFlix.webp",
+    title: "Website Portfolio",
     skills: ["React", "CSS"],
-    excerpt: "Final project for the One Oracle Next Education Program. Educational programming video website demonstrating CRUD requests.",
-    demoURL: "https://react-org-delta.vercel.app/",
+    excerpt: "A great location for those looking for quiet spots with a smooth and harmonious design.",
+    demoURL: "https://medo-hackerz.vercel.app/",
     repoURL: "https://devabdelhamed.vercel.app/",
-    description: `<p>React ORG is a team management app built with <strong>React</strong> and <strong>CSS</strong>. It showcases dynamic team creation, member assignment, and interactive UI elements. Created as a capstone project for the One Oracle Next Education Program.</p>`
+    description: `<p>مـوقـع مـتـمـيـز بـ شـكـل هـادئ وجـذاب ومـصـنوع بـ <strong>React</strong> و <strong>CSS</strong>. ويـمـكنـك عـرض خـدمـاتـك عـلـي هـذا المـوقـع بـشـكـل مـنـصـق ومـنـظـم</p>`
   },
   {
     imgSrc:
-      "https://cdn.outsideonline.com/wp-content/uploads/2023/03/Funny_Dog_H.jpg?crop=16:9&width=960&enable=upscale&quality=100",
-    title: "My Portfolio",
+      "https://raw.githubusercontent.com/Abdelhamed-mohamed/File-pictures/refs/heads/main/FOX/alura_geek.webp",
+    title: "Web business",
     skills: ["Astro", "React", "JavaScript"],
-    excerpt: "Final project for the One Oracle Next Education Program. Educational programming video website demonstrating CRUD requests.",
-    demoURL: "https://sofidev-portfolio-astro-delta.vercel.app/",
+    excerpt: "A website designed to showcase a large collection of links and projects in an organized and attractive format. .",
+    demoURL: "https:https://medonumber-1.vercel.app/",
     repoURL: "https://devabdelhamed.vercel.app/",
-    description: `<p>This portfolio site is built with <strong>Astro</strong>, <strong>React</strong>, and <strong>JavaScript</strong>. It highlights my projects, skills, and experience, featuring a modern design and fast performance. Developed as a showcase for the One Oracle Next Education Program.</p>`
+    description: `<p>موجود عـنـدك مـشـاريـع تـريـد رفـع روابـطـها فـي مـوقـع مـتـمـيـز ومـخـتـلف هـذا هـوا الـحـل المـناسـب.</p>`
   },
   {
     imgSrc:
-      "https://cdn.outsideonline.com/wp-content/uploads/2023/03/Funny_Dog_H.jpg?crop=16:9&width=960&enable=upscale&quality=100",
-    title: "Eco Store",
+      "https://raw.githubusercontent.com/Abdelhamed-mohamed/File-pictures/refs/heads/main/FOX/SASS.webp",
+    title: "Programming Web",
     skills: ["Sass", "JavaScript"],
-    excerpt: "Made with sass for the,Sass fundamentals course",
-    demoURL: "https://sofidevo.github.io/eco-store-sass/",
+    excerpt: "If you are a programmer and want to showcase your resume ",
+    demoURL: "https://abdelhamed-fox.vercel.app/",
     repoURL: "https://devabdelhamed.vercel.app/",
-    description: `<p>Eco Store is an e-commerce landing page created with <strong>Sass</strong> and <strong>JavaScript</strong>. It demonstrates advanced Sass features and modular CSS architecture, built for the Sass Fundamentals course.</p>`
+    description: `<p>لـو مـبـرمـج وبـتـعـرض سـيـرتـك الـزاتـيـه ف ده حـلو اوي .</p>`
   },
-  {
+   {
     imgSrc:
-      "https://cdn.outsideonline.com/wp-content/uploads/2023/03/Funny_Dog_H.jpg?crop=16:9&width=960&enable=upscale&quality=100",
-    title: "fruto & Fruta",
-    skills: ["Bootstrap", "JavaScript"],
-    excerpt: "Made with Bootstrap for the, Bootstrap  course",
-    demoURL: "https://sofidevo.github.io/bootstrap-curso/",
-    repoURL: "https://devabdelhamed.vercel.app/",
-    description: `<p>fruto & Fruta is a responsive website built with <strong>Bootstrap</strong> and <strong>JavaScript</strong>. It features modern layouts and interactive components, developed for the Bootstrap course.</p>`
-  },
-  {
-    imgSrc:
-      "https://cdn.outsideonline.com/wp-content/uploads/2023/03/Funny_Dog_H.jpg?crop=16:9&width=960&enable=upscale&quality=100",
-    title: "Message Encryptor",
+      "https://raw.githubusercontent.com/Abdelhamed-mohamed/File-pictures/refs/heads/main/FOX/portfolio.webp",
+    title: "Social Media",
     skills: ["JavaScript", "CSS"],
     excerpt:
-      "Incididunt amet proident id elit id excepteur  eiusmod esse consequat veniam. Eu reprehenderit quis deserunt ea non deserunt dolor consequat fugiat. \n\n Consectetur deserunt dolor do dolore occaecat reprehenderit ipsum ex.",
+      "A suitable site for displaying contact links.",
     demoURL: "https://sofidevo.github.io/encriptador-mensajes/",
     repoURL: "https://devabdelhamed.vercel.app/",
-    description: `<p>Message Encryptor is a simple text encryption tool built with <strong>JavaScript</strong> and <strong>CSS</strong>. It allows users to encrypt and decrypt messages in the browser, featuring a clean and intuitive interface.</p>`
+    description: `<p>مـوقـع مـنـاسب لـلبـلوجـرز لـعـرض روابـط حـسـاباتـهم بـشكـل مـنـصق ومـمـيز.</p>`
+  },
+  {
+    imgSrc:
+      "https://raw.githubusercontent.com/Abdelhamed-mohamed/File-pictures/refs/heads/main/FOX/BooststrapCurso.webp",
+    title: "fruto & Fruta",
+    skills: ["Bootstrap", "JavaScript"],
+    excerpt: "I made it to preserve memories between me and my friends",
+    demoURL: "https://fox-frends.vercel.app/",
+    repoURL: "https://devabdelhamed.vercel.app/",
+    description: `<p>هـذا المـوقع صـنـعـته مـن اجـل الـمـرح و لـتـخلـيـد اسـمـاء اصـدقـائي.</p>`
   },
 ];
 
