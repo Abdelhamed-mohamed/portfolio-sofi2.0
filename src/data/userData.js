@@ -16,7 +16,7 @@ export const userData = {
       "Leveraging advanced tools and platforms, I streamline both design and development processes. \n\n This approach ensures high-quality results, blending technical proficiency with creative design to enhance project outcomes.🚀",
   },
   terminalInfo:
-    "ls skills\n Javascript, React, Astro, NextJs Node.js, Express, Sass, Tailwind, Scss, Bootstrap, MySQL, Wordpress, CSS, Vue.js, Svelte\n\nls tools\n- figma, vs code, vercel\nbash, github, git, photoshop\n illustrator, ",
+    "My skills\n Javascript, React, Astro, NextJs Node.js, Express, Sass, Tailwind, Scss, Bootstrap, MySQL, Wordpress, CSS \n\nMy tools\n- figma, vs code, vercel\nbash, github, git, photoshop\n illustrator, ",
   cv: "/docs/CV_AngelaSofía_Osorio_2025.pdf",
-  email: "medo7ackerz@gmail.com",
+  email: "Medo7ackerz@gmail.com",
 };
