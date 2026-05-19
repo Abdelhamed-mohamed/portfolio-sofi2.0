@@ -57,7 +57,7 @@
     skills: ["JavaScript", "CSS"],
     excerpt:
       "A suitable site for displaying contact links.",
-    demoURL: "https://sofidevo.github.io/encriptador-mensajes/",
+    demoURL: "https://fox-media.vercel.app/",
     repoURL: "https://devabdelhamed.vercel.app/",
     description: `<p>مـوقـع مـنـاسب لـلبـلوجـرز لـعـرض روابـط حـسـاباتـهم بـشكـل مـنـصق ومـمـيز.</p>`
   },
