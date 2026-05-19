@@ -1,7 +1,7 @@
 export const userData = {
   logo: "/img/icons/sofi-icon.webp",
   name: "FOX",
-  lastName: "Dev",
+  lastName: "DEV",
   userName: "DEVFOX",
   sloganHero1: "Javascript Developer in Egypt",
   profilePicture: "/img/raw.png",
