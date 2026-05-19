@@ -41,7 +41,7 @@
   }
 
   span:hover {
-    color: aqua;
+    color: #FF0033;
 
   }
 
@@ -77,9 +77,10 @@
   }
 }
 .dark .hero__title span{
-  color: aqua;
-  filter: drop-shadow(0 0 12px aqua);
+  color: #FF0033;
+  filter: drop-shadow(0 0 12px #FF0033);
 }
+
 /* animation cursor blinking */
 @keyframes cursor {
   50%{
