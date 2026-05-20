@@ -7,7 +7,7 @@ export const skillsData = [
   { name: "Vue.js", icon: "skill-icons:vuejs-dark" },
   { name: "CSS", icon: "vscode-icons:file-type-css" },
   { name: "git", icon: "skill-icons:git" },
-  { name: "ubuntu", icon: "skill-icons:ubuntu" },
+  { name: "ubuntu", icon: "logos:ubuntu" },
   { name: "Tailwind", icon: "skill-icons:tailwindcss-dark" },
   { name: "MySQL", icon: "skill-icons:mysql-dark" },
   { name: "github", icon: "skill-icons:github-light" },
