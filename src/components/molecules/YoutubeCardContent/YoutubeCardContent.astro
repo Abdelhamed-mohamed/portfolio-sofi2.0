@@ -2,20 +2,28 @@
 import Subtitle from "@src/components/atoms/Subtitle/Subtitle.astro";
 import Button from "@atoms/Button/Button.astro";
 import SocialCardImage from "@src/components/atoms/SocialCardImage/SocialCardImage.astro";
-
 ---
 
-<div class="card-social__container">
-<Subtitle content="My Latest Youtube video" />
-<p class="card-social__content">I love sharing the knowledge I've gained over the years on my YouTube channel. Check out my latest video and join me on this learning journey!</p>
+<div class="card-social__container tiktok__card">
+  <Subtitle content="My Latest TikTok video" />
+  <p class="card-social__content">I love sharing the knowledge I've gained over the years on my TikTok account. Check out my latest video and join me on this learning journey!</p>
 
-<div class="youtubeThumbnail"></div>
-<Button type="button" content="Watch" extraClass="youtube__button"/>
-<SocialCardImage image="/img/icons/youtube.svg" altDesc="Youtube logo" />
+  <div class="tiktokThumbnail"></div>
+  
+  <!-- تم تعديل رابط الحساب هنا -->
+  <a href="https://www.tiktok.com/@Medo.hackerz" target="_blank" rel="noopener noreferrer" class="button-link">
+    <Button type="button" content="Watch" extraClass="tiktok__button tiktok__button__play"/>
+  </a>
+  
+  <SocialCardImage image="/img/icons/youtube.svg" altDesc="Youtube logo" />
 </div>
-<style lang="scss" is:inline
->
-  .youtubeThumbnail {
+
+<style lang="scss" is:inline>
+  .card-social__container {
+    position: relative;
+  }
+
+  .tiktokThumbnail {
     background-size: cover;
     width: 100%;
     height: 116%;
@@ -28,13 +36,16 @@ import SocialCardImage from "@src/components/atoms/SocialCardImage/SocialCardIma
     overflow: hidden;
   }
 
-.youtube__button{
-  max-width: 10rem;
-}
+  .tiktok__button {
+    max-width: 10rem;
+  }
 
-  .youtube__card:hover  .youtube__button__play{
+  .tiktok__card:hover .tiktok__button__play {
     filter: opacity(1);
   }
 
-
+  .button-link {
+    text-decoration: none;
+    display: inline-block;
+  }
 </style>
