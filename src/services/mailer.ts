@@ -40,7 +40,7 @@ async function sendEmail(props: ISendEmail) {
             <tr>
               <td style="padding: 0 0 18px 0; text-align: center;">
                 <div style="background: linear-gradient(90deg, rgba(120,84,255,0.12), rgba(80,44,200,0.08)); padding: 18px; border-radius: 10px; display: inline-block;">
-                  <h1 style="margin:0; font-size:28px; color:#ffffff; font-weight:700; letter-spacing:0.2px;">Portfolio</h1>
+                  <h1 style="margin:0; font-size:28px; color:#ffffff; font-weight:700; letter-spacing:0.2px;">FOX WEBSITE</h1>
                 </div>
               </td>
             </tr>
@@ -48,7 +48,7 @@ async function sendEmail(props: ISendEmail) {
             <tr>
               <td style="background-color: #241a3f; border-radius: 8px; padding: 18px; color: #e9e7ee;">
                 <p style="margin:0 0 12px; font-size:16px;">
-                  <strong style="color:#bdb6ff; display:inline-block; min-width:88px;">Nombre:</strong>
+                  <strong style="color:#bdb6ff; display:inline-block; min-width:88px;">الأسـم</strong>
                   <span style="color:#ffffff; font-size:15px;">${props.name}</span>
                 </p>
 
@@ -58,12 +58,12 @@ async function sendEmail(props: ISendEmail) {
                 </p>
 
                 <p style="margin:0 0 12px; font-size:16px;">
-                  <strong style="color:#bdb6ff; display:inline-block; min-width:88px;">Asunto:</strong>
+                  <strong style="color:#bdb6ff; display:inline-block; min-width:88px;">الـعـنـوان:</strong>
                   <span style="color:#ffffff; font-size:15px;">${props.subject}</span>
                 </p>
 
                 <p style="margin:0; font-size:16px; line-height:1.4;">
-                  <strong style="color:#bdb6ff; display:block; margin-bottom:6px;">Mensaje:</strong>
+                  <strong style="color:#bdb6ff; display:block; margin-bottom:6px;">الـمـوضـوع:</strong>
                   <span style="color:#e6e4ef; font-size:15px;">${props.html}</span>
                 </p>
               </td>
@@ -71,7 +71,7 @@ async function sendEmail(props: ISendEmail) {
 
             <tr>
               <td style="padding-top:16px; text-align:center; color:#9b94b8; font-size:12px;">
-                Enviado desde el formulario de contacto
+                مُـࢪسـلـه مـن الـمـوقـع الـخـاص بـك 🦊
               </td>
             </tr>
           </table>
