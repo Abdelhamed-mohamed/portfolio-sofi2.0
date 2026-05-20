@@ -18,7 +18,7 @@ function Calendar() {
       <section className="calendar">
         <div className="calendar__container">
           <GitHubCalendar
-            username="SofiDevO"
+            username="Medohackers"
             year={selectedYear}
             weekStart={1}
             theme={{
