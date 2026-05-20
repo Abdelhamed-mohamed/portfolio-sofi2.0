@@ -17,6 +17,6 @@ export const userData = {
   },
   terminalInfo:
     "My skills\n Javascript, React, Astro, NextJs Node.js, Express, Sass, Tailwind, Scss, Bootstrap, MySQL, Wordpress, CSS \n\nMy tools\n- figma, vs code, vercel\nbash, github, git, photoshop\n illustrator, ",
-  cv: "/docs/CV_AngelaSofía_Osorio_2025.pdf",
+  cv: "/docs/Medohackerz.pdf",
   email: "Medo7ackerz@gmail.com",
 };
