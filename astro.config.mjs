@@ -8,7 +8,7 @@ import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://itssofi.dev",
+  site: "https://portfolio-sofi2-0-eight.vercel.app/",
   env: {
     schema: {
       LOCAL_URL: envField.string({
