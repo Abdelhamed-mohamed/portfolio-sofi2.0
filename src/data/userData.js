@@ -1,5 +1,5 @@
 export const userData = {
-  logo: "/img/icons/sofi-icon.webp",
+  logo: "/img/icons/fox-icon.webp",
   name: "DEV",
   lastName: "FOX",
   userName: "DEVFOX",
