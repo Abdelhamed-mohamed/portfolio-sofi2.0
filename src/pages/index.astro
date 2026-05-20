@@ -9,8 +9,8 @@ import Skills from "@src/components/organisms/Skills/Skills.astro";
 import Portfolio from "@src/components/organisms/Portfolio/Portfolio.astro";
 import Social from "@src/components/organisms/Social/Social.astro";
 import Footer from "@molecules/Footer/Footer.astro";
-import ToastNotification from "@src/components/atoms/ToastNotification/ToastNotification.astro";
 import { getData } from "@src/services/data";
+
 const { user, skills, tools } = await getData();
 
 export const prerender = true;
@@ -23,7 +23,7 @@ export const prerender = true;
   <DividerTop />
   <About data={user} />
   <DividerBottom fill="shape-fill-3" />
-  <Skills data={user} , skills={skills} tools={tools} />
+  <Skills data={user} skills={skills} tools={tools} />
   <DividerTop fill="shape-fill-purple " />
   <!-- <Portfolio /> -->
   <Portfolio cardsLength={3} server:defer />
@@ -31,12 +31,3 @@ export const prerender = true;
   <Social server:defer/>
   <Footer />
 </Layout>
-<ToastNotification />
-<script>
-  import ToastNotification from "@src/controllers/toastAlerts.controller";
-  document.addEventListener("DOMContentLoaded", () => {
-    setTimeout(() => {
-      ToastNotification("This site is under construction 🚧🏗️", "info");
-    }, 4000);
-  });
-</script>
